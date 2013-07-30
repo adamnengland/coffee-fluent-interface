@@ -1,0 +1,18 @@
+{
+  "name": "coffee-fluent-interface",
+  "version": "0.0.0",
+  "description": "Demo project for fluent interfaces in coffeescript",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:adamnengland/coffee-fluent-interface.git"
+  },
+  "author": "Adam England",
+  "license": "Public Domain",
+  "bugs": {
+    "url": "https://github.com/adamnengland/coffee-fluent-interface/issues"
+  }
+}
